@@ -33,6 +33,8 @@ img {
   border: 2px solid rgb(80, 117, 40);
 }
 
-p {
+p {}
+
+.hidden {
   display: none;
 }

@@ -1,15 +1,15 @@
 const baseURL = "https://fruityvice.com/api/fruit/"
-const sections = document.querySelectorAll("section")
+const modals = document.querySelectorAll(".modal")
 
-sections.forEach(section => {
+modals.forEach(modal => {
 
-  fetch(`${baseURL}${section.dataset.pageid}`)
+  fetch(`${baseURL}${modal.dataset.pageid}`)
     .then(res => {
       return res.json()
 
     }).then(data => {
       let info = document.createElement("p")
-      info.classList.add("modal")
+      // info.classList.add("modal")
 
       info.innerText = `Fruit: ${data.name}
     Order: ${data.order}
@@ -21,7 +21,8 @@ sections.forEach(section => {
     Carbohydrates: ${data.nutritions.carbohydrates}g
     Protein: ${data.nutritions.protein}g`
 
-      section.appendChild(info)
+      modal.appendChild(info)
+      console.log(modal)
 
     }).catch(error => {
       console.error('Error', error)
