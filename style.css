@@ -32,3 +32,7 @@ img {
   object-fit: cover;
   border: 2px solid rgb(80, 117, 40);
 }
+
+p {
+  display: none;
+}
