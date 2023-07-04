@@ -14,6 +14,7 @@ modals.forEach(modal => {
 
       info.innerText = `Fruit: ${data.name}
 
+      
     Order: ${data.order}
 
     Family: ${data.family}
@@ -52,3 +53,12 @@ for (let i = 0; i < modals.length; i++) {
     })
   }
 }
+
+const buttons = document.querySelectorAll("button")
+
+// buttons.forEach(button => {
+//   button.addEventListener("click", {
+//     overlay.classList.add("hidden")
+//   })
+// })
+// Not sure about the syntax error here with '.'
