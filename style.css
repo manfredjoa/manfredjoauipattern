@@ -6,8 +6,9 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 100px;
-  color: rgb(80, 117, 40)
+  font-size: 70px;
+  color: rgb(80, 117, 40);
+  font-family: 'Gloria Hallelujah', cursive;
 }
 
 .outerDiv {
@@ -36,6 +37,8 @@ img {
 
 p {
   margin: 0 100px;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 20px;
 }
 
 .modal {
@@ -60,6 +63,7 @@ p {
 button {
   border-radius: 50%;
   cursor: pointer;
+  order: 3;
   align-self: flex-start;
   color: rgb(80, 117, 40);
   border: 1px solid rgb(80, 117, 40);
