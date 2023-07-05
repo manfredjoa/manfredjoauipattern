@@ -4,7 +4,7 @@ Welcome to my UI Pattern Project!
 For my project, I decided to do the modal pattern, which was challenging but a lot of fun! Even though this looked like the most complicated and difficult one, I knew I had to do this one because of how organized and modern it looks.
 
 I love color and wanted to have some fun, so for my API I decided on the Fruityvice API, found
-[here](https://fruityvice.com/api/fruit).
+[here](https://www.fruityvice.com/).
 
 The API unfortunately does not provide any photos, so I found the photos courtesy of Google, and all the cool information about each fruit comes from the API.
 
