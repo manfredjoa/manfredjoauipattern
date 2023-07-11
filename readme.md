@@ -1,7 +1,14 @@
 # F R U I T S
 Welcome to my UI Pattern Project!  
   
-For my project, I decided to do the modal pattern, which was challenging but a lot of fun! Even though this looked like the most complicated and difficult one, I knew I had to do this one because of how organized and modern it looks.
+For my [project](https://manfredjoa.github.io/manfredjoauipattern/0, I decided to do the modal pattern, which was challenging but a lot of fun! Even though this looked like the most complicated and difficult one, I knew I had to do this one because of how organized and modern it looks.
+
+<img width="720" alt="Screenshot 2023-07-11 at 12 04 08 PM" src="https://github.com/manfredjoa/manfredjoauipattern/assets/135570772/52335b50-c3cd-4897-828d-16d58703d068">
+
+
+
+<img width="1440" alt="Screenshot 2023-07-11 at 12 04 25 PM" src="https://github.com/manfredjoa/manfredjoauipattern/assets/135570772/04ed9749-6391-4ed4-81ee-777e1c5af060">
+
 
 I love color and wanted to have some fun, so for my API I decided on the Fruityvice API, found
 [here](https://www.fruityvice.com/).
